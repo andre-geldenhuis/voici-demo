@@ -1,4 +1,4 @@
-# Voici demo
+# My Voici demo
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://voila-dashboards.github.io/voici-demo)
 
